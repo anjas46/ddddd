@@ -1,3 +1,57 @@
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="LOKAL", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="LOKAL", MNCTV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="LOKAL", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="LOKAL", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="LOKAL",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="LOKAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="LOKAL", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mediaformasi.com/content/images/wordpress/2020/07/1594699707-picsay.jpg" group-title="LOKAL", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1500356825_b2692000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="LOKAL", CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="LOKAL", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7SLMT7/cnbcindologo.png" group-title="LOKAL", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",Rctv
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",ANTV
+http://chostv.mobie.in/files/iptv/antv.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",INDOSIAR HD
+http://chostv.mobie.in/files/iptv/indosiar.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LOKAL",CNN Indonesia SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/nasatv.png" group-title="LOKAL",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="BERITA",Bloomberg
+http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/9f5DfSJg/logo-metrotv-small1.png" group-title="BERITA",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnnindo.png" group-title="BERITA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="BERITA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="BERITA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bsworld.png" group-title="BERITA",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jakartaglobenews.png" group-title="BERITA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF: -1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rri.png" group-title="BERITA", RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_shareExt.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIE",FOX ActionMovies
 http://tv.wakds.xyz:8080/B1uldhPMU3/KwrGX9Q5gO/98
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIE",FOX Action Movies HD
